@@ -1,0 +1,35 @@
+ALNSFMZO - Overcast Weather
+AMOMHRER - Spawn Tanker Truck
+AUIFRVQS - Rainy Weather
+CELEBRITYSTATUS - Spawn Stretch
+CFVFGMJ - Foggy Weather
+CWJXUOC - Sandstorm
+FLYINGTOSTUNT - Spawn Stunt Plane
+FOURWHEELFUN - Spawn Quad
+Full Armor	PRECIOUSPROTECTION
+Full Heath	ASPIRINE
+ITSALLBULL - Spawn Dozer
+Increase Wanted Level by 2	YOUWONTTAKEMEALIVE
+JUMPJET - Spawn Hydra
+KGGGDKP - Spawn Vortex Hovercraft
+Lower Wanted Level to 0	LEAVEMEALONE
+MONSTERMASH - Spawn Monster
+NIGHTPROWLER - Always Midnight
+OFVIAC - Orange Sky
+OHDUDE - Spawn Hunter
+PLEASANTLYWARM - Sunny Weather
+Quick Clock	LIFEISPASSINGMEBY
+RZHSUEW - Spawn Caddy
+SCOTTISHSUMMER - Thunderstorm
+Slow Down Gameplay	BOOOOOORING
+Spawn Bloodring Banger	TRAVELINSTYLE
+Spawn Tank	PANZER
+Speed Up Gameplay	ONSPEED
+Suicide	ICANTTAKEITANYMORE
+THUGSTOOLS
+TOODAMNHOT - Very Sunny Weather
+TRUEGRIME - Spawn Trashmaster
+WHERESTHEFUNERAL - Spawn Romero
+Weapon Set 2	PROFESSIONALTOOLS
+Weapon Set 3	NUTTERTOOLS
+YSOHNUL - Faster Clock

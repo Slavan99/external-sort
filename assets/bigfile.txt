@@ -1,0 +1,147 @@
+HESOYAM - Health, Armor, $250k, Repairs car
+BAGUVIX - (Semi)Infinite Health
+CVWKXAM - Infinite Oxygen
+LXGIWYL - Weapon Set 1
+PROFESSIONALSKIT - Weapon Set 2
+UZUMYMW - Weapon Set 3
+STICKLIKEGLUE - Perfect Vehicle Handling
+ANOSEONGLASS - Adrenaline Mode
+FULLCLIP - Infinite Ammo, No Reloading
+TURNUPTHEHEAT - Increase Wanted Level +2
+TURNDOWNTHEHEAT - Clear Wanted Level
+BTCDBCB - Fat Body
+BUFFMEUP - Muscular Body
+KVGYZQK - Skinny Body
+AEZAKMI - Disable Wanted Level
+BRINGITON - Six Star Wanted Level
+WORSHIPME - Maximum Respect
+HELLOLADIES - Maximum Sex Appeal
+VKYPQCF - Maximum Stamina
+PROFESSIONALKILLER - Hitman Level for all Weapon Stats
+NATURALTALENT - Maximize All Vehicle Skill Stats
+SPEEDITUP - Fast Motion
+SLOWITDOWN - Slow Motion
+AJLOJYQY - People attack each other with golf clubs
+BAGOWPG - Have a bounty on your head
+FOOOXFT - Pedestrians hunt you
+GOODBYECRUELWORLD - Suicide
+BLUESUEDESHOES - Elvis Models for People
+BGLUAWML - People attack with Rocket Launchers
+LIFESABEACH - Beach Party Mode
+ONLYHOMIESALLOWED - Gang Members Mode
+BIFBUZZ - Gang Control
+NINJATOWN - Ninja Theme
+BEKKNQV - Women Talk to You
+CJPHONEHOME - Big Bunny Hop
+KANGAROO - Mega Jump
+STATEOFEMERGENCY - Riot Mode
+CRAZYTOWN - Funhouse Mode
+SJMAHPE - Recruit Anyone
+ROCKETMAYHEM - Recruit Anyone
+CPKTNWT - Blow Up All Cars
+WHEELSONLYPLEASE - Invisible car
+ZEIIVG - All green lights
+YLTEICZ - Aggressive Drivers
+LLQPFBN - Pink CArs
+IOWDLAC - Black Cars
+EVERYONEISPOOR - All Cheap Cars
+EVERYONEISRICH - All Fast Cars
+CHITTYCHITTYBANGBANG - Flying Cars
+FLYINGFISH - Flying Boats
+JCNRUAD - Cars Blow Up Easily
+SPEEDFREAK - All Cars Have Nitro
+BUBBLECARS - Moon Car Gravity
+OUIQDMW - Free Aim While Driving
+GHOSTTOWN - Reduced Traffic
+FVTMNBZ - Country Vehicles
+BMTPWHR - Country Vehicles and People
+ROCKETMAN - Spawn Jetpack
+IWPRTON - Spawn Rhino
+AIYPWZQP - Spawn Parachute
+OLDSPEEDDEMON - Spawn Bloodring Banger
+JQNTDMH - Spawn Rancher
+VROCKPOKEY - Spawn Racecar
+VPJTQWV - Spawn Racecar
+WHERESTHEFUNERAL - Spawn Romero
+CELEBRITYSTATUS - Spawn Stretch
+TRUEGRIME - Spawn Trashmaster
+RZHSUEW - Spawn Caddy
+JUMPJET - Spawn Hydra
+KGGGDKP - Spawn Vortex Hovercraft
+OHDUDE - Spawn Hunter
+FOURWHEELFUN - Spawn Quad
+AMOMHRER - Spawn Tanker Truck
+ITSALLBULL - Spawn Dozer
+FLYINGTOSTUNT - Spawn Stunt Plane
+MONSTERMASH - Spawn Monster
+PLEASANTLYWARM - Sunny Weather
+TOODAMNHOT - Very Sunny Weather
+ALNSFMZO - Overcast Weather
+AUIFRVQS - Rainy Weather
+CFVFGMJ - Foggy Weather
+YSOHNUL - Faster Clock
+NIGHTPROWLER - Always Midnight
+OFVIAC - Orange Sky
+SCOTTISHSUMMER - Thunderstorm
+CWJXUOC - Sandstorm
+THUGSTOOLS
+Weapon Set 2	PROFESSIONALTOOLS
+Weapon Set 3	NUTTERTOOLS
+Full Heath	ASPIRINE
+Full Armor	PRECIOUSPROTECTION
+Increase Wanted Level by 2	YOUWONTTAKEMEALIVE
+Lower Wanted Level to 0	LEAVEMEALONE
+Suicide	ICANTTAKEITANYMORE
+Speed Up Gameplay	ONSPEED
+Slow Down Gameplay	BOOOOOORING
+Quick Clock	LIFEISPASSINGMEBY
+Spawn Tank	PANZER
+Spawn Bloodring Banger	TRAVELINSTYLE
+Spawn Alt Bloodring Banger	GETTHEREQUICKLY
+Spawn Sabre Turbo	GETTHEREFAST
+Spawn Hotring Racer	GETTHEREVERYFASTINDEED
+Spawn Alt Hotring Racer	GETTHEREAMAZINGLYFAST
+Spawn Hearse	THELASTRIDE
+Spawn Limo	ROCKANDROLLCAR
+Spawn Trashmaster	RUBBISHCAR
+Spawn Caddie	BETTERTHANWALKING
+Flying Boats	AIRSHIP
+Nearby Vehicles Explode	BIGBANG
+Road Rage	MIAMITRAFFIC
+Pink Cars	AHAIRDRESSERSCAR
+Black Cars	IWANTITPAINTEDBLACK
+Flying Vehicles	COMEFLYWITHME
+Handling Buff	GRIPISEVERYTHING
+All Traffic Lights Green	GREENLIGHT
+Amphibious Cars	SEAWAYS
+Invisible Cars	WHEELSAREALLINEED
+Big Wheels	LOADSOFLITTLETHINGS
+Ricardo Skin	CHEATSHAVEBEENCRACKED
+Lance Skin	LOOKLIKELANCE
+Ken Skin	MYSONISALAWYER
+Hilary Skin	ILOOKLIKEHILARY
+Jezz Skin	ROCKANDROLLMAN
+Dick Skin	WELOVEOURDICK
+Phil Skin	ONEARMEDBANDIT
+Sonny Skin	IDONTHAVETHEMONEYSONNY
+Mercedes Skin	FOXYLITTLETHING
+Candy Suxxx Skin	IWANTBIGTITS
+Random Outfit	STILLLIKEDRESSINGUP
+Riot	FIGHTFIGHTFIGHT
+Hostile Pedestrians	NOBODYLIKESME
+Armed Pedestrians	OURGODGIVENRIGHTTOBEARARMS
+Armed Female Pedestrians	CHICKSWITHGUNS
+Ladies' Man	FANNYMAGNET
+Sunny Weather	ALOVELYDAY
+Cloudy Weather	APLEASANTDAY
+Very Cloudy Weather	ABITDRIEG
+Foggy Weather	CANTSEEATHING
+Rainy Weather	CATSANDDOGS
+Smoke a Cigarette	CERTAINDEATH
+Fat Skin	DEEPFRIEDMARSBARS
+Skinny Skin	PROGRAMMER
+Invincibility	YOUCANTLEAVEMEALONE
+Buy All Properties	FULLCITYPEOPLEMINES
+Mass Bike Spawn	FREEWAYFORANGELJOY
+Spawn Hunter	AMERICAHELICOPTER
+Spawn Aeroplane	FLYINGWAYS
